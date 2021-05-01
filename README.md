@@ -1,2 +1,1 @@
-Adaptive clothing store /n
-HTML/SCSS/JS
+Adaptive clothing store                                                                                                                                                     HTML/SCSS/JS
